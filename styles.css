@@ -1,0 +1,16 @@
+body {background-color: #EAF6F6;}
+hr {
+  background-color: #EAF6F6;
+  border-style: none;
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 5px;
+  border-color: grey;
+  }
+  h1 {
+      color: #66BFBF;
+  }
+  h2 {
+      color: #66BFBF;
+  }
+  .Image {border-radius: 100%;}
